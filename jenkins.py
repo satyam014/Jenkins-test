@@ -1,2 +1,2 @@
-print("brother how are you") 
-print("am good")
+print("brother how are you bro") 
+print("am good satyam")
